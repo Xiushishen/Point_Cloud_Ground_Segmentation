@@ -1,6 +1,6 @@
 # linefit_ground_segmentation
 
-Implementation of the ground segmentation algorithm proposed in 
+Here is an enhanced implementation of the ground segmentation algorithm for Livox Solid-State Lidar which originally proposed in 
 ```
 @inproceedings{himmelsbach2010fast,
   title={Fast segmentation of 3d point clouds for ground vehicles},
